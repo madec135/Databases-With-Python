@@ -1,0 +1,4 @@
+Ordering client name: Michal, surname: Dec. Ordered car mark: Volskwagen, model: Gold 
+Ordering client name: Jacek, surname: Hrywna. Ordered car mark: Volvo, model: XC 
+Ordering client name: Jacek, surname: Hrywna. Ordered car mark: Opel, model: Astra 
+Ordering client name: Jakob, surname: Patras. Ordered car mark: Skoda, model: Superb 
